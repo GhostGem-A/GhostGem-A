@@ -1,13 +1,6 @@
 ## 👻 Seasoned Detail Driven Full Stack Blockchain Developer
 
-##  🥇 Recent Projects
 
-### <a href="https://github.com/Immutal0/blockchain-projects">Blockchain & AI Projects</a> 
-
-### <a href="https://github.com/Immutal0/solana-trading-bot">Solana Trading Bot</a>  
-
-##  🥇 Main Skill
-<br />
 
 <table align="center">
 <!-- skill -->
