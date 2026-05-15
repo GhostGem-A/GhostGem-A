@@ -6,7 +6,7 @@
 <div>
     <h1>👋 About Me</h1>
   <h4>AI & Blockchain Developer helping startups and businesses build scalable, high-performance products.<br>
-I specialize in AI automation, AI trading bots, blockchain development, smart contracts, Web3, and casino/gaming platforms.<br>
+I specialize in AI automation, AI trading bots, blockchain development, smart contracts, Web and casino/gaming platforms.<br>
  From backend infrastructure to full product development, I focus on building secure, efficient, and production-ready solutions.
 I’m open to collaborations, freelance projects, and long-term partnerships.</h4>
 </div>
