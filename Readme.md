@@ -4,15 +4,18 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=AI%2FLLM+%26+Blockchain+Developer;DeFi%2C+AI+Trading+%26+Casino+Platform+%26+Automation)](https://git.io/typing-svg)
 <div>
-  <p>AI & Blockchain Developer helping startups and businesses build scalable, high-performance products.</p>
-
-I specialize in AI automation, AI trading bots, blockchain development, smart contracts, Web3 applications, and casino/gaming platforms.
+    <h1>👋 About Me</h1>
+  <h4>AI & Blockchain Developer helping startups and businesses build scalable, high-performance products.<br>
+I specialize in AI automation, AI trading bots, blockchain development, smart contracts, Web3 applications, and casino/gaming platforms.<br>
  From backend infrastructure to full product development, I focus on building secure, efficient, and production-ready solutions.
-
-I’m open to collaborations, freelance projects, and long-term partnerships.
+I’m open to collaborations, freelance projects, and long-term partnerships.</h4>
 </div>
 
-
+ &nbsp;&nbsp;&nbsp; 
+ <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
+     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
+     alt="Rainbow Line">
+     
 ![549897830-f8f6d733-d2b5-41dc-82c0-92b95f70b505](https://github.com/user-attachments/assets/83f982fb-4753-4e05-83a4-e8806d971adb)
 
 <div align="center">   
@@ -26,7 +29,7 @@ I’m open to collaborations, freelance projects, and long-term partnerships.
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
      alt="Rainbow Line">
-
+ <h2 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>My Favorite Tools And Technologies ⚙️</h2>
 <table align="center">
 <!-- skill -->
   <tr>
