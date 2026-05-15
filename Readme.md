@@ -212,12 +212,9 @@ I’m open to collaborations, freelance projects, and long-term partnerships.</h
 <h2 align="center">📩 Connect with me:</h2>
 
 <p align="center">
-  <a href="mailto:denys.ivko14@gmail.com">
+  <a href="mailto:devilucky764@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://t.me/lucky_TG007">
+  <a href="https://t.me/panda1517">
     <img src="https://img.shields.io/badge/Telegram-26A5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-    <a href="https://discord.com/users/1485987745196413059">
-    <img src="https://img.shields.io/badge/Discord-0A66C2?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn" />
-  </a> 
+
