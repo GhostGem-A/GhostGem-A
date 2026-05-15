@@ -218,6 +218,6 @@ I’m open to collaborations, freelance projects, and long-term partnerships.</h
   <a href="https://t.me/lucky_TG007">
     <img src="https://img.shields.io/badge/Telegram-26A5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-    <a href="https://discord.gg/553258638441971742">
+    <a href="https://discord.gg/1485987745196413059">
     <img src="https://img.shields.io/badge/Discord-0A66C2?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn" />
   </a> 
