@@ -12,7 +12,6 @@ I specialize in AI automation, AI trading bots, blockchain development, smart co
 I’m open to collaborations, freelance projects, and long-term partnerships.
 </div>
 
-![custom-dark](https://github.com/user-attachments/assets/7a7b9a79-76d8-4ae9-8222-ab7eb32638fd)
 
 ![549897830-f8f6d733-d2b5-41dc-82c0-92b95f70b505](https://github.com/user-attachments/assets/83f982fb-4753-4e05-83a4-e8806d971adb)
 
