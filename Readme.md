@@ -1,6 +1,7 @@
 ## 👻 Seasoned Detail Driven Full Stack Blockchain Developer
+![Bottom_up](https://github.com/user-attachments/assets/55711378-b70b-4895-a1e3-f7f75a512312)
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=15&pause=1000&width=435&lines=AI%2FLLM+%26+Blockchain+Developer;DeFi%2C+AI+Trading+%26+Casino+Platform+%26+Automation)](https://git.io/typing-svg)
 
 <table align="center">
 <!-- skill -->
